@@ -27,6 +27,6 @@ Podes conectar desde a máquina local a través do port forwarding:
 
 `mariadb -h127.0.0.1 -uuser -p`
 
-### Base de datos employeee
+### Base de datos employees
 A máquina carga automaticamente no SXBDR a base de datos de exemplo 'employee", que descarga do repositorio https://github.com/datacharmer/test_db
 
