@@ -2,15 +2,13 @@
 Un exemplo de vagrant box con Apache2 e MariaDB
 
 ## Getting started
-1. Clona este repositorio
-2. Instala Virtualbox
-3. Instala Vagrant
+1. Instala Virtualbox
+2. Instala Vagrant
+3. Clona este repositorio
 4. Executa `vagrant up`
 
 ## Conectar á máquina virtual
-Desde o directorio onde lanzaches a máquina executa o seguinte comando para conectarte á vm de xeito remoto:
-
-`vagrant ssh`
+Desde o directorio onde lanzaches a máquina executa o seguinte comando para conectarte á vm de xeito remoto: `vagrant ssh`
 
 ## Conectar ao servidor Web
 Utiliza o teu navegador para acceder ao enderezo: http://localhost:8080/ 
